@@ -10,5 +10,6 @@ This content is displayed on a MERN stack blog maintained by myself and my partn
 ### Statistical Learning
   * http://mlhq.io/blogs/important-statistics
   * http://mlhq.io/blogs/dataset-shape-and-spread
+  * http://mlhq.io/blogs/linear-regression
 
 ### More coming soon...
