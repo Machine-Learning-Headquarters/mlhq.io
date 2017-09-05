@@ -14,5 +14,6 @@ This content is displayed on a MERN stack blog maintained by myself and my partn
   * http://mlhq.io/blogs/linear-regression-theory
   * http://mlhq.io/blogs/multivariate-linear-regression-theory
   * http://mlhq.io/blogs/multivariate-linear-regression-python
+  * http://mlhq.io/blogs/logistic-regression-python
 
 ### More coming soon...
