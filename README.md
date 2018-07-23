@@ -22,7 +22,7 @@ This content is displayed on a MERN stack blog maintained by myself and my partn
 ### More coming soon...
 
 What is the path to being a machine learning engineer.
-
+```
 Basics:
   Metrics, basic - False positive, False negative
       Effect of imbalanced datasets, how to tune for aggressiveness
@@ -32,3 +32,4 @@ Basics:
       Markovian space, non-markovian
   How do I guess and check effectively
       How do I deal with roadblocks efficiently
+```
