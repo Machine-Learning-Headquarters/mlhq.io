@@ -20,3 +20,15 @@ This content is displayed on a MERN stack blog maintained by myself and my partn
   * http://mlhq.io/blogs/k-means-clustering-theory
 
 ### More coming soon...
+
+What is the path to being a machine learning engineer.
+
+Basics:
+  Metrics, basic - False positive, False negative
+      Effect of imbalanced datasets, how to tune for aggressiveness
+  What kind of data do I have, what kind of algorithm do I need
+      Classification vs Regression
+      Time series data (order matters)
+      Markovian space, non-markovian
+  How do I guess and check effectively
+      How do I deal with roadblocks efficiently
