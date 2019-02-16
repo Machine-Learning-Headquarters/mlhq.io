@@ -1,0 +1,6 @@
+{
+  "active": "true",
+  "title": "DSP-1",
+  "name": "DSP_NB1_SignalGeneration",
+  "description": "Generating DSP signal-object via DSP.py module."
+}
